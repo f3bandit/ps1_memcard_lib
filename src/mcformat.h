@@ -1,5 +1,5 @@
 /* ps1_memcard_lib: PlayStation memory card images (mcformat.c, SS1 Tool's mcformat.go in C).
- * Copyright (C) 2026 f3bandit. MIT License (see LICENSE). */
+ * Copyright (C) 2026 f3bandit. GPL-3.0-or-later (see LICENSE); Retro Remake: see LICENSE-RETRO-REMAKE.md. */
 #ifndef PS1MC_MCFORMAT_H
 #define PS1MC_MCFORMAT_H
 

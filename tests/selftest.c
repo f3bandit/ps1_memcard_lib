@@ -1,6 +1,6 @@
 /* selftest: a blank card, a save imported, listed, exported (byte for byte the same) and removed;
  * the library: stored, recognised, listed and loaded back.
- * Copyright (C) 2026 f3bandit. MIT License (see LICENSE). */
+ * Copyright (C) 2026 f3bandit. GPL-3.0-or-later (see LICENSE); Retro Remake: see LICENSE-RETRO-REMAKE.md. */
 #include "mcformat.h"
 #include "mclib.h"
 #include <stdio.h>

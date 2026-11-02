@@ -1,5 +1,5 @@
 /* ps1_memcard_lib: the memory card library, the same as SS1 Tool's so the two can share it.
- * Copyright (C) 2026 f3bandit. MIT License (see LICENSE).
+ * Copyright (C) 2026 f3bandit. GPL-3.0-or-later (see LICENSE); Retro Remake: see LICENSE-RETRO-REMAKE.md.
  * The memory card manager (first in SS1 Tool): f3bandit's idea and design.
  *
  *   <dir>/<card name>/<YYYY-MM-DD_HHMMSS>.mcd          one folder a card, one file a version (raw 128 KB)
