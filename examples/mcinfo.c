@@ -1,7 +1,7 @@
 /* mcinfo: lists the saves on a PlayStation memory card image, and exports one as .mcs.
  *   mcinfo card.mcd                 list
  *   mcinfo card.mcd <slot> out.mcs  export the save that starts in block <slot>
- * Copyright (C) 2026 f3bandit. PolyForm Noncommercial 1.0.0 (see LICENSE.md); Retro Remake: see LICENSE-RETRO-REMAKE.md. */
+ * Copyright (C) 2026 f3bandit. PolyForm Noncommercial 1.0.0 (see LICENSE.md). */
 #include "mcformat.h"
 #include <stdio.h>
 #include <stdlib.h>
