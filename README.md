@@ -8,9 +8,9 @@ taken out so other frontends can use it.
 
 The memory card manager is f3bandit's idea and design.
 
-**Licence:** GPL-3.0-or-later (LICENSE). **Retro Remake and Taki Udon** get their own permission on top
-(LICENSE-RETRO-REMAKE.md): they can use it in Console Mode or any product of theirs, closed source
-included, without the GPL's conditions; the only condition is crediting f3bandit.
+**Licence:** PolyForm Noncommercial 1.0.0 (LICENSE.md): no commercial use. **Retro Remake and Taki Udon**
+get their own permission on top (LICENSE-RETRO-REMAKE.md): they can use it in Console Mode or any product of
+theirs, closed source and commercial included; the only condition is crediting f3bandit.
 
 - C11, nothing but the C library and POSIX (`dirent.h`, `sys/stat.h`); headers work from C++.
 - Builds for the MiSTer's ARM (armhf) as is.
